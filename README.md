@@ -3,6 +3,6 @@ Trabalho desenvolvido durante a disciplina de LAED (Laboratório de Algoritmo e 
 
 <div align="center">
   <p><br></p>
-  <img width="50%" src="/midia/tree-factal-video.wmv">
+  <img width="50%" src="/midia/tree-factal-gif.wmv">
 </div>
 <p><br></p>

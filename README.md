@@ -8,7 +8,7 @@ Existem vários tipos de fractais, os mais comuns são os geométricos e os alea
 
 Fonte: [FRACTAIS](https://escolakids.uol.com.br/matematica/fractais.htm)
 
-O Fractal de galho de árvore é composto por segmentos que se dividem em dois, seguindo cada um para um lado diferente, esquerdo e direito. Esse é um fractal muito bonito e que é lindo de se ver formando.
+O Fractal de galho de árvore é composto por segmentos que se dividem em dois, seguindo cada um para um lado diferente, esquerdo e direito. Esse é um fractal muito bonito e que é lindo de se ver formando. A seguir, é possível ver a animação deste fractal.
 
 <div align="center">
   <p><br></p>
